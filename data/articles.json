@@ -1,0 +1,5 @@
+[
+  {"id": 1, "titre": "Marwen", "contenu": "Premier article", "auteur": "MBA", "date": "2025-11-01"},
+  {"id": 2, "titre": "Introduction à Twig", "contenu": "Twig est un moteur de templates utilisé par Symfony.", "auteur": "Bob", "date": "2025-11-02"},
+  {"id": 3, "titre": "Comprendre les routes Symfony", "contenu": "Les routes relient une URL à un contrôleur.", "auteur": "Charlie", "date": "2025-11-03"}
+]
